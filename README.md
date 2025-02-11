@@ -1,6 +1,6 @@
-# Xiaomi Dolby
+# Sony Dolby
 
-XiaomiDolby with extensive support of 12 band GEQ settings & much more
+Sony Dolby Atmos from Sony Xperia 5V with inbuilt Spatial Audio & QCOM Effects.
 
 ### How to use?
 
@@ -9,7 +9,6 @@ XiaomiDolby with extensive support of 12 band GEQ settings & much more
 2. Inherit it from `device.mk` in device tree:
 
 ```
-# Vendor Dolby
 $(call inherit-product, vendor/dolby/dolby.mk)
 ```
 
@@ -35,5 +34,4 @@ If you face any issues, please report them with proper logs
 
 Credits:
 @kamikaonashi
-@1xtash
 
